@@ -1,8 +1,9 @@
 # High Level Amazon S3 Client
+# This is a Brainly fork of s3 package to update some dependency which are needed for node 14
 
 ## Installation
 
-`npm install s3 --save`
+`npm install @brainly/s3 --save`
 
 ## Features
 
